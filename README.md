@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20David&fontSize=50&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=400&section=header&text=Hello,%20I'm%20David&fontSize=50&animation=fadeIn)
 
 - 👀 I’m interested in **Coding**
 - 🌱 I’m currently learning **MySQL and .Net Framework**
@@ -16,6 +15,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david04082002&show_icons=true&locale=en" alt="david04082002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david04082002&" alt="david04082002" /></p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 David04082002/David04082002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

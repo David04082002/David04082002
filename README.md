@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David
-- 👀 I’m interested in Reading books and Coding
+- 👀 I’m interested in Photography and Coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Database
 - 📫 How to reach me at giandavidferrer@gmail.com

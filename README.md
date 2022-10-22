@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David04082002
+- 👋 Hi, I’m @David
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Database

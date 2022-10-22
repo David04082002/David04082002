@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @David
-- 👀 I’m interested in Photography and Coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Database
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20David&fontSize=50)
+
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C# and MySQL
+- 💞️ I’m looking to collaborate on Databases
 - 📫 How to reach me at giandavidferrer@gmail.com
 
 <!---

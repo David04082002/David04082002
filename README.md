@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @David
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Reading books and Coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Database
-- 📫 How to reach me at gf139897@gmail.com
+- 📫 How to reach me at giandavidferrer@gmail.com
 
 <!---
 David04082002/David04082002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=400&section=header&text=Hello,%20I'm%20David&fontSize=50&animation=fadeIn)
 
-- 👀 I’m interested in **Coding**
-- 🌱 I’m currently learning **MySQL and .Net Framework**
+- 👀 I’m interested in **Reading**
+- 🌱 I’m currently learning **Flutter and Firebase**
 - 🤝 I’m looking for help with **Database**
 - 📫 How to reach me **giandavidferrer@gmail.com**
 
